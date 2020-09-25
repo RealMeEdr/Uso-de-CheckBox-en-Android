@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Control CheckBox</string>
+    <string name="btn_Calcular">Calcular</string>
+    <string name="check_Sumar">Sumar</string>
+    <string name="check_Restar">Restar</string>
+    <string name="check_Multiplicar">Multiplicar</string>
+    <string name="Valor1">Primer Valor</string>
+    <string name="valor2">Segundo Valor</string>
+    <string name="Resultado">Resultado</string>
+    <string name="Resultado_view">Resultado</string>
+</resources>
